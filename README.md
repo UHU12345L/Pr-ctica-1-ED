@@ -1,4 +1,4 @@
-# Pr-ctica-1-ED
+# Practica-1-ED
 La primera práctica de Estrucura de Datos sobre ficheros
 
 Proyecto sobre gestión de ficheros para la asignatura de ED  
