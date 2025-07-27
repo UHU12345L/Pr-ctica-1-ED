@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1745229581 source:c:\users\usuario\desktop\practicaed3\clasificacion.cpp
+	"Clasificacion.h"
+	<iostream>
+
+1745229581 source:c:\users\usuario\desktop\practicaed3\torneo.cpp
+	"Torneo.h"
+	"Clasificacion.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1742770805 c:\users\usuario\desktop\practicaed3\torneo.h
+	<iostream>
+	<fstream>
+	<cstring>
+
+1743031883 c:\users\usuario\desktop\practicaed3\clasificacion.h
+	<iostream>
+
+1745230830 source:c:\users\usuario\desktop\practicaed3\main.cpp
+	<iostream>
+	<cstring>
+	"Torneo.h"
+	"Clasificacion.h"
+
